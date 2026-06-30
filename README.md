@@ -215,7 +215,10 @@ kubectl get ingress -n game-app
 Once the Application Load Balancer is provisioned, the **ADDRESS** column will display the ALB DNS endpoint.
 
 ---
+
 # Project Structure
+
+```text
 eks-cluster-deployment/
 │
 ├── app.py
@@ -223,6 +226,7 @@ eks-cluster-deployment/
 ├── requirements.txt
 ├── game_full.yaml
 └── README.md
+```
 
 ---
 
