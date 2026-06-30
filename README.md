@@ -216,11 +216,10 @@ Once the Application Load Balancer is provisioned, the **ADDRESS** column will d
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```text
 eks-cluster-deployment/
-│
 ├── app.py
 ├── Dockerfile
 ├── requirements.txt
